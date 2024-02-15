@@ -31,15 +31,15 @@ const app = {
     {
       name: "Có hẹn với thanh xuân",
       singer: "MONSTARS",
-      path: './music/song1.mp3',
-      image: './image/song1.jpg'
+      path: '/music/song1.mp3',
+      image: '/image/song1.jpg'
     },
     {
       name: "Play date",
       singer: "Melanie Martinez",
-      path: "./music/song2.mp3",
+      path: "/music/song2.mp3",
       image:
-        "./image/song2.jpg"
+        "/image/song2.jpg"
     },
     {
       name: "Nơi này có anh",
