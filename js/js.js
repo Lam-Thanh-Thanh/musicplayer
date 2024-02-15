@@ -51,8 +51,6 @@ const app = {
       singer: "Vicetone",
       path: "./music/song4.mp3",
       image: "./image/song4.jpg"
-      path: "./music/song4.mp3",
-      image: "./image/song4.jpg"
     },
     {
       name: "Ghé qua",
