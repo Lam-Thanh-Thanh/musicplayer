@@ -31,57 +31,50 @@ const app = {
     {
       name: "Có hẹn với thanh xuân",
       singer: "MONSTARS",
-      path: '/music/song1.mp3',
-      image: '/image/song1.jpg'
+      path: './music/song1.mp3',
+      image: './image/song1.jpg'
     },
     {
       name: "Play date",
       singer: "Melanie Martinez",
-      path: "/music/song2.mp3",
-      image:
-        "/image/song2.jpg"
+      path: "./music/song2.mp3",
+      image:"./image/song2.jpg"
     },
     {
       name: "Nơi này có anh",
       singer: "Sơn Tùng M-TP",
-      path: "/music/song3.mp3",
-      image:
-        "/image/song3.jpg"
+      path: "./music/song3.mp3",
+      image:"./image/song3.jpg"
     },
     {
       name: "Nevada",
       singer: "Vicetone",
-      path: "/music/song4.mp3",
-      image: "/image/song4.jpg"
+      path: "./music/song4.mp3",
+      image: "./image/song4.jpg"
     },
     {
       name: "Ghé qua",
       singer: "Dick x PC x Tofu",
-      path: "/music/song5.mp3",
-      image:
-        "/image/song5.jpg"
+      path: "./music/song5.mp3",
+      image:"./image/song5.jpg"
     },
     {
       name: "All we are",
       singer: "Richello",
-      path:
-        "/music/song6.mp3",
-      image:
-        "/image/song6.jpg"
+      path:"./music/song6.mp3",
+      image:"./image/song6.jpg"
     },
     {
       name: "Nấu ăn cho em",
       singer: "Đen vâu ft PiaLinh",
-      path: "/music/song7.mp3",
-      image:
-        "/image/song7.jpg"
+      path: "./music/song7.mp3",
+      image:"./image/song7.jpg"
     },
     {
       name: "Death bed",
       singer: "Powfu ",
-      path: "/music/song8.mp3",
-      image:
-        "/image/song8.jpg"
+      path: "./music/song8.mp3",
+      image:"./image/song8.jpg"
     }
   ],
   setConfig: function (key, value) {
